@@ -1,1 +1,1 @@
-# practice_on_unix
+# algorithm_study_by_book
